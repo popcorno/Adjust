@@ -14,6 +14,7 @@
 #import "ADJThirdPartySharing.h"
 #import "ADJAdRevenue.h"
 #import "ADJLinkResolution.h"
+#import "ADJAdjustFactory.h"
 
 @interface AdjustTestOptions : NSObject
 
